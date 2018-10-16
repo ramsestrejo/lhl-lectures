@@ -17,4 +17,4 @@ A note from Juan Gonzalez in regards to sanitation of user input that was briefl
 "Sanitizing user input refers to the practice of making sure ANY parameters that are passed to a query have been checked and double-checked before they are used because the most common vulnerability in a web system is something called "SQL Injection".
 
 And a nice illustration of SQL injection 
-<img src="https://www.c-sharpcorner.com/forums/sql-injection-cartoon" />
+<img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/forums/uploadfile/suthish_nair/07082016051954AM/Injection.PNG" />
