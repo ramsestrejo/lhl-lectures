@@ -12,7 +12,7 @@ We then programmatically, using Node, connected through the 'pg' middleware/clie
 
 ## Sanitation of user input to prevent SQL injection
 
-A note from Juan Gonzalez in regards to sanitation of user input that was briefly mentioned in the lecture:
+A note from Juan Gonzalez in regards to sanitation of user input, topic that was briefly mentioned in the lecture:
 
 "Sanitizing user input refers to the practice of making sure ANY parameters that are passed to a query have been checked and double-checked before they are used because the most common vulnerability in a web system is something called "SQL Injection".
 
