@@ -10,6 +10,8 @@ We then programmatically, using Node, connected through the 'pg' middleware/clie
 4. Implemented simple queries that provide apps with data services.
 5. Used modules to isolate the persistence layer, so data access layer functions are separated from logic code
 
+Demo code and notes can be found here : https://github.com/ramsestrejo/lhl-lectures/tree/master/Week4/ProgrammaticSQL
+
 ## Sanitation of user input to prevent SQL injection
 
 A note from Juan Gonzalez in regards to sanitation of user input, topic that was briefly mentioned in the lecture:
